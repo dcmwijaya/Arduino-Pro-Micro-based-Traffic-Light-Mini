@@ -61,7 +61,7 @@ This project was created to show how a traffic light works. Red as a sign that t
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/d10fa1f2-c9a0-4e8e-ada6-50034797e676" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/70c19b70-91e2-40dc-b00e-6123191cce23" alt="Wiring"></td>
 </tr>
 </table>
 
