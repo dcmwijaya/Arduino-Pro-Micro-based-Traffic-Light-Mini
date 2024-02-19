@@ -61,7 +61,7 @@ Proyek ini dibuat untuk menunjukkan cara kerja dari lampu lalu lintas. Merah seb
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img width="840" src="" alt="Wiring"></td>
+<td><img width="840" src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/d10fa1f2-c9a0-4e8e-ada6-50034797e676" alt="Wiring"></td>
 </tr>
 </table>
 
