@@ -15,7 +15,7 @@ Proyek ini dibuat untuk menunjukkan cara kerja dari lampu lalu lintas. Merah seb
 | Editor Kode | Arduino IDE |
 | Driver | USB-Serial CH340 |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • Arduino (default)<br>• TM1637Display |
+| Pustaka Arduino | • Arduino (bawaan)<br>• TM1637Display |
 | Aktuator | Modul Lampu Lalu Lintas (x1) |
 | Layar | TM1637: Modul 4 Digit 7 Bagian (x1) |
 | Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1) |
