@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Pro-Micro-based-Traffic-Light-Mini
-Coming Soon...
+This project was created to show how a traffic light works. Red as a sign that the rider must stop, yellow as a sign that the rider must be prepared, and green as a sign that the rider is allowed to walk.
 
 <br><br>
 
