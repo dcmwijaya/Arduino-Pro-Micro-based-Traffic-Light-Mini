@@ -142,9 +142,9 @@ Coming Soon...
 <th width="840" colspan="3">Mini Traffic Light Display</th>
 </tr>
 <tr>
-<td width="280"><img src="" alt="red_condition"></td>
-<td width="280"><img src="" alt="yellow_condition"></td>
-<td width="280"><img src="" alt="green_condition"></td>
+<td width="280"><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/44c3171b-4da0-435c-8a56-ecf38779d813" alt="red_condition"></td>
+<td width="280"><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/2c084b83-68f4-4f0c-b08e-70a17ffaf27b" alt="yellow_condition"></td>
+<td width="280"><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/ca0e3dc7-f297-4c41-b09d-266154e2a46c" alt="green_condition"></td>
 </tr>
 </table>
 
