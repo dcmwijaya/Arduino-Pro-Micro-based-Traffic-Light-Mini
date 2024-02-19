@@ -54,30 +54,30 @@ void loop(){
 
 // Method: red
 void red(){
-  for (redCount=30; redCount>=10; redCount--){
-    display.showNumberDec(redCount, false, 2, 1);
-    delay(delayTime);
-    display.clear();
+  for (redCount=30; redCount>=10; redCount--){ // the countdown goes from 30 to 10
+    display.showNumberDec(redCount, false, 2, 1); // show decimal numbers without leading zeros
+    delay(delayTime); // delay -> 3 second
+    display.clear(); // remove all existing display elements on the screen
   }
-  for (redCount=9; redCount>=1; redCount--){
-    display.showNumberDec(redCount, true, 2, 1);
-    delay(delayTime);
-    display.clear();
+  for (redCount=9; redCount>=1; redCount--){ // the countdown goes from 9 to 1
+    display.showNumberDec(redCount, true, 2, 1); // show decimal numbers with leading zeros
+    delay(delayTime); // delay -> 3 second
+    display.clear(); // remove all existing display elements on the screen
   }
-  display.showNumberDec(0, true, 2, 1);
+  display.showNumberDec(0, true, 2, 1); // show decimal numbers with leading zeros
 }
 
 // Method: green
 void green(){
-  for (int greenCount=20; greenCount>=10; greenCount--){
-    display.showNumberDec(greenCount, false, 2, 1);
-    delay(delayTime);
-    display.clear();
+  for (int greenCount=20; greenCount>=10; greenCount--){ // the countdown goes from 20 to 10
+    display.showNumberDec(greenCount, false, 2, 1); // show decimal numbers without leading zeros
+    delay(delayTime); // delay -> 3 second
+    display.clear(); // remove all existing display elements on the screen
   }
-  for (int greenCount=9; greenCount>=1; greenCount--){
-    display.showNumberDec(greenCount, true, 2, 1);
-    delay(delayTime);
-    display.clear();
+  for (int greenCount=9; greenCount>=1; greenCount--){ // the countdown goes from 9 to 1
+    display.showNumberDec(greenCount, true, 2, 1); // show decimal numbers with leading zeros
+    delay(delayTime); // delay -> 3 second
+    display.clear(); // remove all existing display elements on the screen
   }
-  display.showNumberDec(0, true, 2, 1);
+  display.showNumberDec(0, true, 2, 1); // show decimal numbers with leading zeros
 }
