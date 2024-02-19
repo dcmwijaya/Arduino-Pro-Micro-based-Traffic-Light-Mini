@@ -81,7 +81,7 @@ Proyek ini dibuat untuk menunjukkan cara kerja dari lampu lalu lintas. Merah seb
    <table>
       <tr><th width="810">
 
-      Cara mengatur board ``` Arduino Pro Micro ``` board
+      Cara mengatur board ``` Arduino Pro Micro ```
             
       </th></tr>
       <tr><td>
