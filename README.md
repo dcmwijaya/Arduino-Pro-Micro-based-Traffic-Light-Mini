@@ -18,7 +18,7 @@ This project was created to show how a traffic light works. Red as a sign that t
 | Arduino Library | • Arduino (default)<br>• TM1637Display |
 | Actuators | Traffic Light Module (x1) |
 | Display | TM1637: 4 Digit 7 Segment Module (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard (x1) |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard (x1)<br>• Adaptor DC 5V (x1) |
 
 <br><br>
 
