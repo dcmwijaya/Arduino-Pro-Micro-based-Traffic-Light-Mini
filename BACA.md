@@ -53,7 +53,7 @@ Proyek ini dibuat untuk menunjukkan cara kerja dari lampu lalu lintas. Merah seb
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/c5bf817b-0a30-4a30-b108-0f606e9f3227" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/13b27c1e-398a-441b-ac70-6385163efaba" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/8048c0ab-2508-4afe-b7e8-928055aa40d3" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
