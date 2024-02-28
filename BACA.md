@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Pro-Micro-based-Traffic-Light-Mini
-Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas yang terpasang di persimpangan jalan, tempat penyeberangan pejalan kaki, dan tempat arus lalu lintas lainnya. Proyek ini dibuat untuk menunjukkan cara kerja dari sistem lampu lalu lintas. Merah sebagai penanda bahwa pengendara harus berhenti, kuning sebagai penanda bahwa pengendara harus bersiap, dan hijau sebagai penanda bahwa pengendara diperbolehkan berjalan. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 hari. Manfaat dari proyek ini yaitu masyarakat luas dapat mengetahui tentang bagaimana cara membuat sistem lampu lalu lintas yang sederhana. Hasil dari proyek ini adalah prototipe lampu lalu lintas.
+Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas yang terpasang di persimpangan jalan, tempat penyeberangan pejalan kaki, dan tempat arus lalu lintas lainnya. Proyek ini dibuat untuk menunjukkan cara kerja dari sistem lampu lalu lintas. Merah sebagai penanda bahwa pengendara harus berhenti, kuning sebagai penanda bahwa pengendara harus bersiap, dan hijau sebagai penanda bahwa pengendara diperbolehkan berjalan. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 hari. Manfaat dari pembuatan proyek ini tidak lain adalah untuk edukasi. Hasil dari proyek ini adalah prototipe lampu lalu lintas.
 
 <br><br>
 
