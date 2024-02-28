@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Pro-Micro-based-Traffic-Light-Mini
-This project was created to show how a traffic light works. Red as a sign that the rider must stop, yellow as a sign that the rider must be prepared, and green as a sign that the rider is allowed to walk.
+Traffic lights are lights that control the flow of traffic installed at intersections, pedestrian crossings, and other traffic flow areas. This project was created to show how the traffic light system works. Red indicates that the driver should stop, yellow indicates that the driver should prepare, and green indicates that the driver is allowed to proceed. This project has been implemented and took approximately 1 day. The benefit of this project is that the wider community can find out about how to make a simple traffic light system. The result of this project is a prototype traffic light.
 
 <br><br>
 
