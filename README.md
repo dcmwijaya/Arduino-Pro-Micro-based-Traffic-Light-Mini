@@ -14,7 +14,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 | --- | --- |
 | Development Board | Arduino Pro Micro Leonardo ATMEGA32U4 |
 | Code Editor | Arduino IDE |
-| Driver | USB-Serial CH340 |
+| Driver | CH340 USB Driver |
 | Programming Language | C/C++ |
 | Arduino Library | • Arduino (default)<br>• TM1637Display |
 | Actuators | Traffic Light Module (x1) |
@@ -29,17 +29,17 @@ Traffic lights are lights that control the flow of traffic. This project was cre
    <table><tr><td width="810">
          
    ```
-   https://www.arduino.cc/en/software
+   https://bit.ly/ArduinoIDE_Installer
    ```
 
    </td></tr></table><br>
    
-2. USB-Serial CH340
+2. CH340 USB Driver
 
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CH340_Driver
+   https://bit.ly/CH340_USB_Driver
    ```
    
    </td></tr></table>
