@@ -5,7 +5,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Pro-Micro-based-Traffic-Light-Mini
-<strong>Proyek Tunggal: Lampu Lalu Lintas Mini Berbasis Arduino Pro Micro</strong><br><br>
 Lampu lalu lintas adalah lampu yang mengendalikan arus lalu lintas. Proyek ini dibuat pada dasarnya untuk menunjukkan cara kerja dari sistem lampu lalu lintas. Merah sebagai penanda bahwa pengendara harus berhenti, kuning sebagai penanda bahwa pengendara harus bersiap, dan hijau sebagai penanda bahwa pengendara diperbolehkan berjalan. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 1 hari. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menambah wawasan. Hasil dari penelitian ini menunjukkan bahwa prototipe lampu lalu lintas dapat berfungsi dengan baik.
 
 <br><br>
