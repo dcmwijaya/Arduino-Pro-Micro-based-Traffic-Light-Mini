@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-Arduino-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Arduino-Pro-Micro-based-Traffic-Light-Mini
 <strong>Solo Project: Arduino Pro Micro-based Traffic Light Mini</strong><br><br>
@@ -53,8 +54,8 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 <th width="420">Pictorial Diagram</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/c5bf817b-0a30-4a30-b108-0f606e9f3227" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/8048c0ab-2508-4afe-b7e8-928055aa40d3" alt="Pictorial-Diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
 </tr>
 </table>
 <table>
@@ -62,7 +63,7 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/70c19b70-91e2-40dc-b00e-6123191cce23" alt="Wiring"></td>
+<td><img width="840" src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -143,9 +144,9 @@ Traffic lights are lights that control the flow of traffic. This project was cre
 <th width="840" colspan="3">Mini Traffic Light Display</th>
 </tr>
 <tr>
-<td width="280"><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/44c3171b-4da0-435c-8a56-ecf38779d813" alt="red_condition"></td>
-<td width="280"><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/2c084b83-68f4-4f0c-b08e-70a17ffaf27b" alt="yellow_condition"></td>
-<td width="280"><img src="https://github.com/devancakra/Arduino-Pro-Micro-based-Traffic-Light-Mini/assets/54527592/ca0e3dc7-f297-4c41-b09d-266154e2a46c" alt="green_condition"></td>
+<td width="280"><img src="Assets/Documentation/Experiment/View-1.jpg" alt="red_condition"></td>
+<td width="280"><img src="Assets/Documentation/Experiment/View-2.jpg" alt="yellow_condition"></td>
+<td width="280"><img src="Assets/Documentation/Experiment/View-3.jpg" alt="green_condition"></td>
 </tr>
 </table>
 
@@ -157,7 +158,7 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br><br>
 
 ## Disclaimer
-This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: editor code, libraries, frameworks, and so on.
 
 <br><br>
 
